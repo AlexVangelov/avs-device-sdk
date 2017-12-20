@@ -30,7 +30,6 @@ else()
 endif()
 add_subdirectory("ApplicationUtilities")
 add_subdirectory("SampleApp")
-add_subdirectory("WebExtension")
 add_subdirectory("Storage")
 add_subdirectory("doc")
 
